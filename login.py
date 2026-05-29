@@ -1,3 +1,4 @@
+```python
 import streamlit as st
 
 def login_system():
@@ -12,12 +13,12 @@ def login_system():
 
         st.title("🔐 AI MASTER LOGIN SYSTEM")
 
-username = st.text_input("Tên đăng nhập")
-password = st.text_input("Mật khẩu", type="password")
+        username = st.text_input("Tên đăng nhập")
+        password = st.text_input("Mật khẩu", type="password")
 
         if st.button("🚀 Đăng nhập"):
 
-            if username == "admin" and password == "baudeptrai:
+            if username == "admin" and password == "baudeptrai":
 
                 st.session_state.logged_in = True
                 st.session_state.username = username
@@ -28,17 +29,12 @@ password = st.text_input("Mật khẩu", type="password")
             else:
                 st.error("❌ Sai tài khoản hoặc mật khẩu")
 
-        st.stop()
+    return st.session_state.logged_in
+
 
 def logout_button():
 
-    st.sidebar.markdown("---")
-
-    st.sidebar.success(f"👤 {st.session_state.username}")
-
     if st.sidebar.button("🚪 Đăng xuất"):
-
         st.session_state.logged_in = False
-        st.session_state.username = ""
-
         st.rerun()
+```
