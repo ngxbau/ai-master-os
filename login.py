@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 
 def login_system():
@@ -37,4 +36,3 @@ def logout_button():
     if st.sidebar.button("🚪 Đăng xuất"):
         st.session_state.logged_in = False
         st.rerun()
-```
