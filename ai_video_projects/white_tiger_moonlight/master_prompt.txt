@@ -1,0 +1,73 @@
+
+🎬 AI CLOUD STUDIO PACKAGE — LEVEL 13
+
+PROJECT:
+white_tiger_moonlight
+
+CREATED AT:
+2026-05-28 20:14:03
+
+PLATFORM:
+Veo 3
+
+FORMAT:
+YouTube 16:9
+
+DURATION:
+5 giây
+
+MAIN IDEA:
+một con hổ trắng bước trong tuyết dưới ánh trăng
+
+STYLE:
+Hollywood Cinematic
+
+MOOD:
+Emotional
+
+SCORES:
+Cinema Score: 90/100
+Viral Score: 95/100
+
+MASTER VIDEO PROMPT:
+Create an ultra realistic cinematic AI video for Veo 3.
+
+Main scene:
+một con hổ trắng bước trong tuyết dưới ánh trăng
+
+Use Hollywood Cinematic visual style with Emotional emotional tone.
+Format: YouTube 16:9.
+Duration: 5 giây.
+
+Use cinematic lighting, professional cinematography,
+volumetric lighting, realistic shadows, smooth motion,
+shallow depth of field, emotional atmosphere,
+premium visual quality, strong composition,
+and immersive storytelling.
+
+STORYBOARD:
+Scene 1:
+Open with a powerful cinematic establishing shot.
+
+Scene 2:
+Reveal the subject with emotional camera movement.
+
+Scene 3:
+Add atmosphere, motion, and cinematic detail.
+
+Scene 4:
+End with a memorable hero frame.
+
+THUMBNAIL PROMPT:
+Ultra realistic cinematic thumbnail of một con hổ trắng bước trong tuyết dưới ánh trăng,
+dramatic lighting, strong subject focus,
+high contrast, premium composition, 8K detail.
+
+SEO:
+Title: Cinematic AI Video - một con hổ trắng bước trong tuyết dưới ánh trăng
+Hashtags: #AIVideo #Veo3 #Sora #KlingAI #RunwayAI #AIShorts
+
+NEGATIVE PROMPT:
+blurry, low quality, bad anatomy, distorted face,
+watermark, logo, text, glitch, duplicate objects,
+poor lighting, noisy image, low resolution.
