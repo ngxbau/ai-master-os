@@ -12,8 +12,8 @@ def login_system():
 
         st.title("🔐 AI MASTER LOGIN SYSTEM")
 
-        username = st.text_input("Tên đăng nhập")
-        password = st.text_input("Mật khẩu", type="password")
+username = st.text_input("Tên đăng nhập")
+password = st.text_input("Mật khẩu", type="password")
 
         if st.button("🚀 Đăng nhập"):
 
