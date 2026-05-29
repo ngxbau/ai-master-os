@@ -17,7 +17,7 @@ def login_system():
 
         if st.button("🚀 Đăng nhập"):
 
-            if username == "admin" and password == "123456":
+            if username == "admin" and password == "baudeptrai:
 
                 st.session_state.logged_in = True
                 st.session_state.username = username
