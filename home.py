@@ -6,8 +6,10 @@ st.set_page_config(
     page_icon="🚀",
     layout="wide"
 )
-login_system()
-logout_button()
+if login_system():
+    logout_button()
+else:
+    st.stop()
 
 st.markdown("""
 # 🚀 AI MASTER OS — LEVEL 37
